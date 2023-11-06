@@ -12,4 +12,7 @@ Runs the app in the development mode.
 
 To run the prettier
 
+## Source
 
+Getting Started image is AI Created.
+Eventter App is designed in LOGO.
