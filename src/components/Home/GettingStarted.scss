@@ -1,0 +1,24 @@
+$textColor: white;
+.getting-started {
+  margin: 50px 100px;
+  color: white;
+  font-weight: bold;
+
+  &__main-text {
+    font-size: 75px;
+    font-family: Barlow;
+    max-width: 800px;
+  }
+
+  &__sub-text {
+    font-size: 20px;
+    font-family: Barlow;
+    margin-top: 30px;
+    margin-right: 20vw;
+  }
+
+  &__image {
+    width: 100%;
+    height: 100%;
+  }
+}
